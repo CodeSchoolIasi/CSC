@@ -7,10 +7,10 @@ In C++ folosesti un compilator care converteste codul tau sursa in codul masina,
 ![alt text](https://github.com/cezarovici/CSC/blob/master/02_Python/Translation.png "logo title")
 
 
-Locul in care rulati Python se numeste __interpretor__
+Locul in care rulati Python se numeste __interpretor__ <br>
 __Interpretorul__ este un program care converteste codul scris intr-un limbaj intermediar, numit *byte code*. Acest cod, este tot binar(contine doar 1 si 0) dar nu este recunoscut de catre procesor, acest lucru facandu-l mai lent, deoarece este rulat print-o masina virtuala.
 
-**-Nu este nevoie sa declari variabile asa cum faceam in C++**
+**-Nu este nevoie sa declari variabile asa cum faceam in C++** <br>
 **-Nu este nevoie de ```;```**
 
 ### How to print something 
