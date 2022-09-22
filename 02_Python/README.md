@@ -6,4 +6,4 @@
 
 In C++ folosesti un compilator care converteste codul tau sursa in codul masina, limbajul calculatorului si creeaza un fisier executabil care poate fi apelat separat.
 
-![alt text](https://github.com/cezarovici/CSC/tree/master/Translation.png "logo title")
+![alt text](https://github.com/cezarovici/CSC/Translation.png "logo title")
