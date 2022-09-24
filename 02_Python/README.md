@@ -4,7 +4,7 @@
 
 In C++ folosesti un compilator care converteste codul tau sursa in codul masina, limbajul calculatorului si creeaza un fisier executabil care poate fi apelat separat.
 
-![alt text](https://github.com/cezarovici/CSC/blob/master/02_Python/Translation.png "logo title")
+![alt text](https://github.com/CodeSchoolIasi/CSC/tree/master/02_PythonTranslation.png "logo title")
 
 
 Locul in care rulati Python se numeste __interpretor__ <br>
@@ -60,4 +60,6 @@ if x == 1:
 ```
 https://realpython.com/python-vs-cpp/
 https://pythongeeks.org/interpreter-in-python/
+https://www.learnpython.org/
+
 ```
